@@ -1,2 +1,2 @@
-[Jira Software javadocs](jira-javadocs.md)
-[Confluence javadocs](confluence-javadocs.md)
+- [Jira Software javadocs](jira-javadocs.md)
+- [Confluence javadocs](confluence-javadocs.md)
