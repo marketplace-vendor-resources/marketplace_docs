@@ -1,5 +1,3 @@
-# Marketplace Vendor Resources
-
 Hi 👋!
 
 The purpose of this page is to collect usefull resources for Marketplace vendors.
