@@ -9,7 +9,7 @@ The purpose of this page is to collect usefull resources for Marketplace vendors
 If you need help from Atlassian, you can either go to the developer community:
 [https://community.developer.atlassian.com](https://community.developer.atlassian.com)
 
-Or you can file a support ticket:
+Or you can file a support ticket (however - the first place should be community.developer.atlassian.com if possible):
 
 [http://go.atlassian.com/devhelp](http://go.atlassian.com/devhelp) (app development inquiries)  
 [http://go.atlassian.com/amkthelp](http://go.atlassian.com/amkthelp) (marketplace vendor support)
