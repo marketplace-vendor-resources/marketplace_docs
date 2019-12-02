@@ -1,9 +1,10 @@
 # Atlassian Confluence javadocs
 
-*Last updated 10-Nov-2019.*
+*Last updated 02-Dec-2019.*
 
 Version | Release date | Release notes
 --- | --- | ---
+[7.1.1](https://docs.atlassian.com/ConfluenceServer/javadoc/7.1.1/) | 02-Dec-2019 | [Link](https://confluence.atlassian.com/doc/confluence-7-1-release-notes-976776964.html)
 [7.1.0](https://docs.atlassian.com/ConfluenceServer/javadoc/7.1.0/) | 04-Nov-2019 | [Link](https://confluence.atlassian.com/doc/confluence-7-1-release-notes-976776964.html)
 [7.0.4](https://docs.atlassian.com/ConfluenceServer/javadoc/7.0.4/) | 28-Oct-2019 | [Link](https://confluence.atlassian.com/doc/confluence-7-0-release-notes-973479448.html)
 [7.0.3](https://docs.atlassian.com/ConfluenceServer/javadoc/7.0.3/) | 15-Oct-2019 | [Link](https://confluence.atlassian.com/doc/confluence-7-0-release-notes-973479448.html)
