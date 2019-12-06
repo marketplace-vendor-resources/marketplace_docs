@@ -28,6 +28,10 @@ Please make sure to use your business email address (no @gmail, @yahoo, @outlook
 - [Confluence javadocs](confluence-javadocs.md)
 - [Bitbucket javadocs](bitbucket-javadocs.md)
 
+# Marketing resources
+
+- [Google Adwords policy (incl. trademark whitelisting)](https://developer.atlassian.com/platform/marketplace/adwords-trademark-policy/)
+
 # Contributions
 
 Please fee free to add additional resources to this page by opening a pull request
