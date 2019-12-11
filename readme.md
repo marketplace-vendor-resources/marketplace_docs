@@ -22,6 +22,11 @@ This channel is not governed by any NDA, so please make sure to only post public
 You can sign up for the Marketplace Vendor Slack channel here: [http://signup.marketplace-vendor-resources.com/](http://signup.marketplace-vendor-resources.com/)
 Please make sure to use your business email address (no @gmail, @yahoo, @outlook).
 
+# Getting started with app development
+
+- [Cloud](getting-started-with-cloud.md)
+- [Server](getting-started-with-server.md)
+
 # JavaDocs
 
 - [Jira Software javadocs](jira-javadocs.md)
