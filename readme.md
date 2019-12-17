@@ -14,6 +14,9 @@ Or you can file a support ticket (however - the first place should be community.
 [http://go.atlassian.com/devhelp](http://go.atlassian.com/devhelp) (app development inquiries)  
 [http://go.atlassian.com/amkthelp](http://go.atlassian.com/amkthelp) (marketplace vendor support)
 
+Also, if you're a Marketplace vendor make sure to
+[apply for access to the private Marketplace vendor topics in the developer community](https://ecosystem.atlassian.net/servicedesk/customer/portal/9/create/147).
+
 ## Slack channel
 
 There is an informal slack channel for all Marketplace vendors.
