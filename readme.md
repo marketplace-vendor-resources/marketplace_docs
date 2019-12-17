@@ -24,6 +24,7 @@ Please make sure to use your business email address (no @gmail, @yahoo, @outlook
 
 # Getting started with app development
 
+- [Tips for new Marketplace vendors](tips-for-new-vendors.md)
 - [Cloud](getting-started-with-cloud.md)
 - [Server](getting-started-with-server.md)
 
