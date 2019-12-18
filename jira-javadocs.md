@@ -2,6 +2,8 @@
 
 Version | Release date | Release notes
 --- | --- | ---
+[8.5.2](https://docs.atlassian.com/software/jira/docs/api/8.5.2) | 15-Dec-2019 | [Link](https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.5.x+release+notes)
+[8.5.1](https://docs.atlassian.com/software/jira/docs/api/8.5.1) | 03-Nov-2019 | [Link](https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.5.x+release+notes)
 [8.5.0](https://docs.atlassian.com/software/jira/docs/api/8.5.0) | 21-Oct-2019 | [Link](https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.5.x+release+notes)
 [8.4.3](https://docs.atlassian.com/software/jira/docs/api/8.4.3) | 07-Nov-2019 | [Link](https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.4.x+release+notes)
 [8.4.2](https://docs.atlassian.com/software/jira/docs/api/8.4.2) | 29-Sep-2019 | [Link](https://confluence.atlassian.com/display/JIRASOFTWARE/JIRA+Software+8.4.x+release+notes)
