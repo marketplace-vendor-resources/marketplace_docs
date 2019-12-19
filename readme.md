@@ -11,7 +11,7 @@ If you need help from Atlassian, you can either go to the developer community:
 
 Or you can file a support ticket (however - the first place should be community.developer.atlassian.com if possible):
 
-[http://go.atlassian.com/devhelp](http://go.atlassian.com/devhelp) (app development inquiries)  
+[http://go.atlassian.com/devhelp](http://go.atlassian.com/devhelp) (critical issues/bugs)  
 [http://go.atlassian.com/amkthelp](http://go.atlassian.com/amkthelp) (marketplace vendor support)
 
 ## Slack channel
