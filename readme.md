@@ -38,6 +38,11 @@ Please make sure to use your business email address (no @gmail, @yahoo, @outlook
 
 - [Google Adwords policy (incl. trademark whitelisting)](https://developer.atlassian.com/platform/marketplace/adwords-trademark-policy/)
 
+# Marketplace resources
+
+- [Other resources including tools and templates](resources.md)
+
+
 # Contributions
 
 Please fee free to add additional resources to this page by opening a pull request
