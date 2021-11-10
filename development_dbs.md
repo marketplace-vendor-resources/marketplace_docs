@@ -1,4 +1,11 @@
 These commands can be used to launch databases on docker.
+
+## PostgreSQL
+
+```
+docker run -p 5432:5432 --name some-postgres -e POSTGRES_DB=confluence -e POSTGRES_USER=confuser -e POSTGRES_PASSWORD=confuser -d postgres
+```
+
 ## MySQL
 
 ```
