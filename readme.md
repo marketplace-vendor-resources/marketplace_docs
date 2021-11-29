@@ -1,6 +1,6 @@
 Hi 👋!
 
-The purpose of this page is to collect usefull resources for Marketplace vendors.
+The purpose of this page is to collect useful resources for Atlassian Marketplace vendors.
 
 # Communication channels
 
