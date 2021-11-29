@@ -45,7 +45,7 @@ Please make sure to use your business email address (no @gmail, @yahoo, @outlook
 
 # Contributions
 
-Please fee free to add additional resources to this page by opening a pull request
+Please feel free to add additional resources to this page by opening a pull request
 [https://github.com/marketplace-vendor-resources/marketplace_docs](https://github.com/marketplace-vendor-resources/marketplace_docs)
 
 Make sure to mention your pending pull request in the slack channel!
