@@ -19,7 +19,7 @@ Or you can file a support ticket (however - the first place should be community.
 There is an informal slack channel for all Marketplace vendors.
 This channel is not governed by any NDA, so please make sure to only post publicly available information.
 
-You can sign up for the Marketplace Vendor Slack channel here: [http://signup.marketplace-vendor-resources.com/](http://signup.marketplace-vendor-resources.com/)
+You can sign up for the Marketplace Vendor Slack channel here: [https://signup.marketplace-vendor-resources.com/](http://signup.marketplace-vendor-resources.com/)
 Please make sure to use your business email address (no @gmail, @yahoo, @outlook).
 
 # Getting started with app development
