@@ -18,6 +18,7 @@
 
 - Google Data Studio Connector - https://github.com/toolsplus/atlassian-marketplace-data-studio-connector
 - AWS Lambda function to pull license information from Atlassian Marketplace and send to Segment & ProfitWell - https://github.com/Jexoio/atlassian-marketplace-aws-lambda
+- Hubspot - Pulls data from MPAC and pushes it to HubSpot - https://github.com/Atlas-Authority/marketing-automation
 
 ## Auditing
 
