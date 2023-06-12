@@ -5,6 +5,7 @@
 ## Design
 
 - Figma Template for MPAC Product page - https://community.developer.atlassian.com/t/free-atlassian-marketplace-figma-template/39582
+- Atlassian proviced Figma tooling - https://atlassian.design/resources/figma-library
 
 ## API  Info
 
