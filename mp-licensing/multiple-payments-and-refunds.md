@@ -1,6 +1,6 @@
 # Trying to explain many payments and refunds in quick succession
 
-Question to Ecosystem help (ECOHELP-22840 but private)
+Question to Ecosystem help (ECOHELP-22840 for reference, but private)
 
 ## Question:
 
