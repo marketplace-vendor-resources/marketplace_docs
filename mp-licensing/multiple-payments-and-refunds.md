@@ -6,8 +6,6 @@ Question to Ecosystem help (ECOHELP-22840 but private)
 
 I see a whole load of transactions that I cannot understand here:
 
-![(image-q.png)](image-q.png)
-
 [![image-q.png](image-q.png)](image-q.png)
 
 Please can you make sense of what is going on because I can’t understand it.
