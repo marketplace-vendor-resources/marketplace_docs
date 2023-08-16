@@ -41,6 +41,7 @@ Please make sure to use your business email address (no @gmail, @yahoo, @outlook
 # Marketplace resources
 
 - [Other resources including tools and templates](resources.md)
+- [Trying to explain many payments and refunds in quick succession](mp-licensing/multiple-payments-and-refunds.md)
 
 
 # Contributions
