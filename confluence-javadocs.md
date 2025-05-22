@@ -1,9 +1,14 @@
 # Atlassian Confluence javadocs
 
-*Last updated 15-Dec-2019.*
+*Last updated 17-May-2025.*
+
+After Confluence 8.5.0, Atlassian didn't seem to publish the -javadoc.jar files. Ideas:
+* You can access the javadocs of some libraries like [licensing-api](https://maven.artifacts.atlassian.com/com/atlassian/upm/licensing-api/7.1.8/),
+* You can access the HTML files on [https://docs.atlassian.com/](https://docs.atlassian.com/)
 
 Version | Release date | Release notes
 --- | --- | ---
+[8.5.0](https://docs.atlassian.com/ConfluenceServer/javadoc/8.5.0/) | 22-Aug-2023 | [Link](https://confluence.atlassian.com/doc/confluence-8-5-release-notes-1252010185.html)
 [7.2.0](https://docs.atlassian.com/ConfluenceServer/javadoc/7.2.0/) | 12-Dec-2019 | [Link](https://confluence.atlassian.com/doc/confluence-7-2-release-notes-979421828.html)
 [7.1.2](https://docs.atlassian.com/ConfluenceServer/javadoc/7.1.2/) | 12-Dec-2019 | [Link](https://confluence.atlassian.com/doc/confluence-7-1-release-notes-976776964.html)
 [7.1.1](https://docs.atlassian.com/ConfluenceServer/javadoc/7.1.1/) | 02-Dec-2019 | [Link](https://confluence.atlassian.com/doc/confluence-7-1-release-notes-976776964.html)
